@@ -18,8 +18,8 @@ Provide insights that can support the management's proposal to focus on converti
 4. Summarise findings in PowerPoint to be shared with the management.
 
 ## Skills
-1. SQL:
-2. Python:
-3. MS PowerPoint:
+1. SQL: JOIN, LIMIT
+2. Python: Pandas, matplotlib, seaborn, 
+3. MS PowerPoint: slide preparation, screencasting
 
 ## Results & Business Recommendations
