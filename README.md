@@ -1,6 +1,5 @@
 # SuperFoodsMax-Revenue-Analysis
-Background:
-This analysis is the capstone project for a professional certificate with RMIT University Online: Business Analytics with SQL and Python.
+This analysis is the capstone project for a professional certificate with RMIT University Online: Business Analytics with SQL and Python. 
 
 ## Executive Summary
 Using SQL and Python, I pulled transaction data from database and prepared a powerpoint presentation for the management. After identifying that the biggeset revenue opportunities is to increase loyal customers, I recommend the following be made the marketing focus:
@@ -9,17 +8,21 @@ Using SQL and Python, I pulled transaction data from database and prepared a pow
   2. Retain customers from different household type.
 
 ## Business Problems
-Provide insights that can support the management's proposal to focus on converting non-loyalists into loyalists to increase revenue.
+SuperFoodsMax faced declining revenue in the past years. The management believes that to remedy this, the marketing department should focus on converting non-loyalist customers into loyalists. 
+As a data analyst, my role is to provide insights that can support the management's proposal to focus on converting non-loyalists into loyalists to increase revenue.
+
+## Dataset
+The dataset was provided by RMIT in the form of CSV. Three CSVs were provided for the project: customers.csv, transactions.csv, and products.csv
 
 ## Methodology
 1. Dataset was downloaded from course-approved database in the form of CSV.
-2. CSV loaded to pgadmin4, where SQL queries were used to clean, sort and transform dataset.
+2. CSV loaded to pgadmin4, where SQL queries were used to clean, join, sort and transform dataset.
 3. Use Python on notebook to explore data.
 4. Summarise findings in PowerPoint to be shared with the management.
 
 ## Skills
 1. SQL: JOIN, LIMIT
-2. Python: Pandas, matplotlib, seaborn, 
+2. Python: Pandas, matplotlib, plotly.go, statistical analysis 
 3. MS PowerPoint: slide preparation, screencasting
 
 ## Results & Business Recommendations
