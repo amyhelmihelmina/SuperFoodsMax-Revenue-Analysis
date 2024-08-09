@@ -21,12 +21,18 @@ The dataset was provided by RMIT in the form of CSV. Three CSVs were provided fo
 4. Summarise findings in PowerPoint to be shared with the management.
 
 ## Skills
-1. SQL: JOIN, LIMIT
+1. SQL: JOIN, aggregation, filtering
 2. Python: Pandas, matplotlib, plotly.go, statistical analysis 
 3. MS PowerPoint: slide preparation, screencasting
+4. Tableau: Aggregation, data modelling, calculated fields
 
 ## Results & Business Recommendations
 
 1. Younger customers (students and youth) made the most of company customers. I recommend the company improve its online shopping experience to appeal more to the younger, tech-savvy customers. Additionally, lack of online shopping was identified as the reason sales decline in 2019 as Covid-19 rampaged the world.
 2. Company may also assess the suitability to set up age-based customer loyalty programmes. This may include curated and discounted back-to-college sections, accessible to those with valid student IDs. 
-3. To retain customers from different household types, I recommend the company provide family-friendly shopping experiences, such as drive-through pick up services, and developing family-friendly customer loyalty rewards. 
+3. To retain customers from different household types, I recommend the company provide family-friendly shopping experiences, such as drive-through pick up services, and developing family-friendly customer loyalty rewards.
+
+## Bonus
+I decided to improve the project by adding an interactive dashboard that allows users to focus on three main metrics: revenue, total customers and total purchases. Each metric drills further into customers' demographics (loyalty type, household type, age), and department performance (commodities).
+<img width="1172" alt="Screenshot 2024-08-09 at 13 42 54" src="https://github.com/user-attachments/assets/58159a81-e5f2-4559-96dc-d772a62df1fc">
+Dashboard accessible here: https://public.tableau.com/app/profile/amy.kamaruzaman/viz/RMIT_SFSuperstoreAnalysis/Dash-Revenue?publish=yes
