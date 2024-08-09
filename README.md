@@ -34,5 +34,5 @@ The dataset was provided by RMIT in the form of CSV. Three CSVs were provided fo
 
 ## Bonus
 I decided to improve the project by adding an interactive dashboard that allows users to focus on three main metrics: revenue, total customers and total purchases. Each metric drills further into customers' demographics (loyalty type, household type, age), and department performance (commodities).
-<img width="1172" alt="Screenshot 2024-08-09 at 13 42 54" src="https://github.com/user-attachments/assets/58159a81-e5f2-4559-96dc-d772a62df1fc">
+<img width="1172" alt="Screenshot 2024-08-09 at 13 56 54" src="https://github.com/user-attachments/assets/a8a4a4cf-0494-4015-9a04-a2258f045da5">
 Dashboard accessible here: https://public.tableau.com/app/profile/amy.kamaruzaman/viz/RMIT_SFSuperstoreAnalysis/Dash-Revenue?publish=yes
